@@ -1,28 +1,28 @@
 # Rock Paper Scissors
 
-Projeto da certificação **Machine Learning with Python** do freeCodeCamp.
+Project from the freeCodeCamp **Machine Learning with Python** certification.
 
-O objetivo é implementar a função `player` em `RPS.py` para jogar Pedra, Papel e Tesoura contra quatro oponentes diferentes (`quincy`, `abbey`, `kris` e `mrugesh`) e obter pelo menos **60% de vitórias contra cada um**.
+The goal is to implement the `player` function in `RPS.py` so it can play Rock Paper Scissors against four different opponents (`quincy`, `abbey`, `kris`, and `mrugesh`) and achieve at least a **60% win rate against each one**.
 
-## Arquivos
+## Files
 
-- `RPS.py` — estratégia implementada para o desafio.
-- `RPS_game.py` — motor oficial do jogo fornecido pelo freeCodeCamp; não foi modificado.
-- `main.py` — arquivo para execução e testes durante o desenvolvimento.
-- `test_module.py` — testes unitários oficiais do desafio.
+- `RPS.py` — strategy implemented for the challenge.
+- `RPS_game.py` — official game engine provided by freeCodeCamp; it was not modified.
+- `main.py` — development entry point used to run matches and tests.
+- `test_module.py` — official unit tests for the challenge.
 
-## Executar
+## Run
 
 ```bash
 python main.py
 ```
 
-Para executar os testes diretamente:
+To run the unit tests directly:
 
 ```bash
 python -m unittest test_module.py
 ```
 
-## Requisito do desafio
+## Challenge Requirement
 
-A função `player(prev_play)` deve retornar `R`, `P` ou `S` e vencer pelo menos 60% das partidas contra cada um dos quatro bots avaliados pelo freeCodeCamp.
+The `player(prev_play)` function must return `R`, `P`, or `S` and win at least 60% of the games against each of the four bots evaluated by freeCodeCamp.
