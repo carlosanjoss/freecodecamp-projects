@@ -12,6 +12,10 @@ Repository dedicated to projects and challenges developed throughout the [freeCo
 - [Linear Regression Health Costs Calculator](machine-learning-with-python/linear-regression-health-costs-calculator/) — a TensorFlow/Keras regression project for predicting healthcare expenses with categorical encoding, feature normalization, and MAE-based evaluation.
 - [Neural Network SMS Text Classifier](machine-learning-with-python/neural-network-sms-text-classifier/) — a TensorFlow/Keras NLP classifier using text vectorization, embeddings, a bidirectional LSTM, and class balancing to distinguish ham from spam messages.
 
+### Relational Database
+
+- [Celestial Bodies Database](relational-database/celestial-bodies-database/) — a PostgreSQL universe database with normalized relationships among galaxies, stars, planets, and moons, plus the constraints and data types required by the freeCodeCamp challenge.
+
 ## Organization
 
-Each certification has its own directory, and every project is kept in a separate folder containing its source code, notebook, and corresponding tests or evaluation logic.
+Each certification has its own directory, and every project is kept in a separate folder containing its source code, notebook, SQL dump, and corresponding tests or evaluation logic as appropriate.
