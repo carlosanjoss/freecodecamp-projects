@@ -1,13 +1,13 @@
 # freeCodeCamp Projects
 
-Repositório dedicado aos projetos e desafios desenvolvidos durante as certificações do [freeCodeCamp](https://www.freecodecamp.org/).
+Repository dedicated to projects and challenges developed throughout the [freeCodeCamp](https://www.freecodecamp.org/) certifications.
 
-## Projetos
+## Projects
 
 ### Machine Learning with Python
 
-- [Rock Paper Scissors](machine-learning-with-python/rock-paper-scissors/) — programa de Pedra, Papel e Tesoura capaz de derrotar os quatro bots do desafio com taxa de vitória superior a 60%.
+- [Rock Paper Scissors](machine-learning-with-python/rock-paper-scissors/) — a Rock Paper Scissors program designed to defeat all four challenge bots with a win rate above 60% against each opponent.
 
-## Organização
+## Organization
 
-Cada certificação possui seu próprio diretório, e cada projeto é mantido em uma pasta independente com o código e os testes correspondentes.
+Each certification has its own directory, and every project is kept in a separate folder containing its source code and corresponding tests.
